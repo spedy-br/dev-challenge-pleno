@@ -1,4 +1,4 @@
-# Desafio Técnico – Dev Pleno (.NET + React)
+# Desafio Técnico – Desenvolvedor (.NET + React)
 
 Este desafio tem como objetivo avaliar sua capacidade de **entender requisitos de negócio**, **modelar uma solução**, **organizar o código** e **entregar uma aplicação funcional e bem estruturada**.
 
@@ -20,7 +20,7 @@ Não há necessidade de integração com sistemas externos ou notificações.
 - **Backend:** .NET 8 (ASP.NET Core Web API)
 - **Frontend:** React (preferencialmente com TypeScript)
 - **Banco de dados:** relacional (PostgreSQL, MySQL, SQL Server, etc.)
-- **ORM:** livre (EF Core, Nhibernate, Dapper, outro — escolha consciente)
+- **ORM:** livre (EF Core, NHibernate, Dapper, outro — escolha consciente)
 
 ---
 
